@@ -1,2 +1,0 @@
-# DATOS PERSONALES
-NOMBRE: Jonathan Pérez
